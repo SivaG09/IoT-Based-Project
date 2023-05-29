@@ -1,2 +1,4 @@
 # IoT-Based-Project
 Industrial Batch Process Using IoT
+The System can provide both controlling and monitoring via Internet. The values that are sensed by various sensors that are installed (Ph sensor, level sensor, gas sensor, temperature sensor) in the process are monitored by Thingspeak an IoT platform which allows aggregating, visualizing, and analysing live data in the cloud and the controlling of the Heater in the system is done with the help of Blynk IoT.
+This project gives the design of a prototype of an Industrial Batch Process system where the NodeMCU and internet of things are involved. This gives a demonstration of how to build up a remotely controlled system that can enable the person away from the industry surroundings to control the system by and get the related data on the Internet.
